@@ -1,0 +1,19 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: gray;
+}
+
+.Trend {
+  background-color: blue;
+  width: 90%;
+  height: 300px;
+}
+
+.Library {
+  padding: 50px;
+  margin: 0 auto;
+  background-color: violet;
+  width: 80%;
+  height: 60%;
+}
