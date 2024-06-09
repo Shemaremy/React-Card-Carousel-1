@@ -5,15 +5,18 @@ body {
 }
 
 .Trend {
-  background-color: blue;
+  background-color: rgba(131, 83, 48, 0.425);
   width: 90%;
   height: 300px;
+  border-radius: 5px;
 }
 
 .Library {
   padding: 50px;
   margin: 0 auto;
-  background-color: violet;
+  background-color: rgb(207, 207, 207);
   width: 80%;
   height: 60%;
+  margin-top: 5%;
+  border-radius: 10px;
 }
